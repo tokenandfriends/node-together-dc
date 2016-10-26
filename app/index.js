@@ -9,3 +9,4 @@ app.get('/', function(request, response){
 });
 
 module.exports = app;
+console.log('did this work???');
